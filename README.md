@@ -124,4 +124,4 @@ También se puede utilizar el siguinte código xml, guardarlo e importar la tare
 
 ### Contact Me
 <a href="https://co.linkedin.com/in/juan-carlos-acosta-espitia-837735121/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Carlos%20Acosta-blue?style=flat-square&logo=linkedin"></a>
-<a href="jc.acosta.espitia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jc.acosta.espitia@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="mailto:jc.acosta.espitia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jc.acosta.espitia@gmail.com-red?style=flat-square&logo=gmail"></a>  
