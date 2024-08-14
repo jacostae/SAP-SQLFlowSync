@@ -122,6 +122,11 @@ También se puede utilizar el siguinte código xml, guardarlo e importar la tare
 ```
 </details>
 
+### Proceso Automatizado: Estado Actual
+
+![Proceso](https://github.com/user-attachments/assets/318f6da2-6ca3-4747-90ae-7b3be6ce306e)
+
+
 ### Contact Me
 <a href="https://co.linkedin.com/in/juan-carlos-acosta-espitia-837735121/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Carlos%20Acosta-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jc.acosta.espitia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jc.acosta.espitia@gmail.com-red?style=flat-square&logo=gmail"></a>  
