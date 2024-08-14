@@ -1,5 +1,5 @@
 
-# Integración de Datos SAP-SQL con Dashboard en Looker
+# Integración de Datos SAP-SQL con Dashboard en Looker Studio
 
 #### Descripción del Proyecto:
 Este proyecto automatiza el proceso de integración de datos entre **_SAP_** y **_Siclo_** (una base de datos SQL), utilizando **scripts en Python** para descargar información desde una transacción específica en SAP, cruzar esta información con datos de despacho, y actualizar una hoja de cálculo en **Google Sheets**. Posteriormente, esta hoja de cálculo alimenta un dashboard en **Looker Studio**, que se actualiza automáticamente para proporcionar visualizaciones en tiempo real.
